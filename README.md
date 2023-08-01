@@ -1,11 +1,6 @@
-# botnets
-This is a collection of botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY
 
+<p align="center"><img width="300" src="./docs/readme.jpg"/></p>
 
-Many projects are duplicates or revisions of each other. Many of them have outdated depedencies. My goal is to collectively put them together so that they are compilable and help people interested in malware research analyze them and learn from these samples. 
+<h1 align="center">Volovich</h1>
 
-## Donations
-
-Donations are appreciated:
-
-(BTC): 1FPZzkoUxe2uXzne4KML6TYzASCieWXS6E
+<p align="center">Existing precompiled botnet archive. In memory of <a href="https://en.wikipedia.org/wiki/Hava_Volovich">Hava Vladimirovna Volovich</a></p>
